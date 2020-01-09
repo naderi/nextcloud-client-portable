@@ -1,5 +1,5 @@
-# Nextcloud Client Portable
-This is a portable Nextcloud client that runs on Windows without administrator privileges.
+# Nextcloud Client Portable - 64bit
+This is a portable Nextcloud client that runs on Windows (64bit only) without administrator privileges.
 
 ## Used software:
 [**7-Zip**](http://www.7-zip.org/) is a file archiver with a high compression ratio.
