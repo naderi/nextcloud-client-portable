@@ -8,8 +8,10 @@
 ]Icon\r*
 ].DS_Store
 ].ds_store
+*.textClipping
 ._*
 ]Thumbs.db
+]photothumb.db
 System Volume Information
 
 .*.sw?
@@ -21,6 +23,7 @@ System Volume Information
 ].Trash-*
 .fseventd
 .apdisk
+.Spotlight-V100
 
 .directory
 
