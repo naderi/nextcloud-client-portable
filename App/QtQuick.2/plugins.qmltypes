@@ -3917,10 +3917,6 @@ Module {
             Parameter { name: "item"; type: "QObject"; isPointer: true }
         }
         Method { name: "invalidateSceneGraph" }
-        Method {
-            name: "sourceItemParentChanged"
-            Parameter { name: "parent"; type: "QQuickItem"; isPointer: true }
-        }
         Method { name: "scheduleUpdate" }
     }
     Component {

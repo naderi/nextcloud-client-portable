@@ -525,6 +525,26 @@ Module {
             Parameter { type: "int" }
         }
         Method {
+            name: "_q_columnsInserted"
+            Parameter { type: "QModelIndex" }
+            Parameter { type: "int" }
+            Parameter { type: "int" }
+        }
+        Method {
+            name: "_q_columnsRemoved"
+            Parameter { type: "QModelIndex" }
+            Parameter { type: "int" }
+            Parameter { type: "int" }
+        }
+        Method {
+            name: "_q_columnsMoved"
+            Parameter { type: "QModelIndex" }
+            Parameter { type: "int" }
+            Parameter { type: "int" }
+            Parameter { type: "QModelIndex" }
+            Parameter { type: "int" }
+        }
+        Method {
             name: "_q_rowsAboutToBeRemoved"
             Parameter { name: "parent"; type: "QModelIndex" }
             Parameter { name: "begin"; type: "int" }
