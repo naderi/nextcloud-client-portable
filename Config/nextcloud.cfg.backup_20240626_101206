@@ -1,8 +1,0 @@
-[General]
-optionalDesktopNotifications=true
-crashReporter=false
-monoIcons=false
-newBigFolderSizeLimit=500
-useNewBigFolderSizeLimit=true
-skipUpdateCheck=true
-launchOnSystemStartup=true
